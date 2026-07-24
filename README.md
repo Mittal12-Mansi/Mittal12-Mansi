@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 Mansi Mittal<br><br>💻 Full-Stack Developer passionate about building scalable and impactful web applications.<br>🌟 Skilled in the MERN stack, SQL with a strong focus on creating user-friendly experiences.<br>🔒 Experienced in developing secure systems with JWT authentication and modular backend design.<br>🎓 Constantly learning, solving problems, and aiming to stand out with innovative projects.<br>🚀 Let's connect and collaborate to make something amazing!
+Hi there! 👋 Mansi Mittal<br><br>💻 MCA Student at NIT Bhopal🌟 Skilled in the MERN stack, SQL with a strong focus on creating user-friendly experiences.<br>🔒 Experienced in developing secure systems with JWT authentication and modular backend design.<br>🎓 Constantly learning, solving problems, and aiming to stand out with innovative projects.<br>🚀 Let's connect and collaborate to make something amazing!
 
 
 ## 🌐 Socials:
